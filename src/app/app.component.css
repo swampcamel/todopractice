@@ -1,3 +1,15 @@
 h1 {
   color: green;
 }
+
+.bg-danger {
+  background-color: red;
+}
+
+.bg-warning {
+  background-color: yellow
+}
+
+.bg-info {
+  background-color: blue;
+}
